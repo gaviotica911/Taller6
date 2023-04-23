@@ -1,0 +1,9 @@
+Nombre: gg
+Dirección: hh
+Id Pedido: 1396
+Producto   ---   Precio
+combo corral   ---   22050
+Calorias totales del Pedido: 846
+Precio neto: 22050
+valor del IVA: 4189
+Valor total pedido: 26239

@@ -1,0 +1,9 @@
+Nombre: gabriela
+Dirección: calle 2
+Id Pedido: 2823
+Producto   ---   Precio
+combo todoterreno   ---   34317
+Calorias totales del Pedido: 1084
+Precio neto: 34317
+valor del IVA: 6520
+Valor total pedido: 40837

@@ -1,0 +1,11 @@
+Nombre: gabs
+Dirección: calle 3
+Id Pedido: 8288
+Producto   ---   Precio
+combo todoterreno   ---   34317
+papas medianas con adición de piÃ±a lechuga  Sin queso mozzarella    ---   9000
+agua cristal con gas   ---   5000
+Calorias totales del Pedido: 1157
+Precio neto: 48317
+valor del IVA: 9180
+Valor total pedido: 57497

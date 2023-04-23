@@ -1,0 +1,10 @@
+Nombre: Gabriela
+Dirección: Calle3 
+Id Pedido: 1235
+Producto   ---   Precio
+combo corral queso   ---   23850
+hawaiana con adición de cebolla grille  Sin tomate    ---   22500
+todoterreno   ---   25000
+Precio neto: 71350
+valor del IVA: 13556
+Valor total pedido: 84906

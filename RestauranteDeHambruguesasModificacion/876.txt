@@ -1,0 +1,10 @@
+Nombre: calle 2
+Dirección: calle1
+Id Pedido: 876
+Producto   ---   Precio
+combo todoterreno   ---   34317
+papas medianas con adición de queso americano  Sin tocineta picada    ---   8000
+agua cristal sin gas   ---   5000
+Precio neto: 47317
+valor del IVA: 8990
+Valor total pedido: 56307
