@@ -1,0 +1,10 @@
+Nombre: BadBunny
+Direcci�n: uwu1
+Id Pedido: 1
+Producto   ---   Precio
+Corralazo   ---   15000
+Papitas   ---   4000
+Calorias totales del Pedido: 800
+Precio neto: 19000
+valor del IVA: 3610
+Valor total pedido: 22610

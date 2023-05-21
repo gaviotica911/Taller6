@@ -1,0 +1,11 @@
+Nombre: gabriela
+Dirección: feo
+Id Pedido: 5862
+Producto   ---   Precio
+combo especial   ---   32085
+costeÃ±a Sin papa callejera    ---   20000
+agua cristal sin gas   ---   5000
+Calorias totales del Pedido: 1439
+Precio neto: 57085
+valor del IVA: 10846
+Valor total pedido: 67931

@@ -1,0 +1,14 @@
+Nombre: gg
+Direcci�n: 44
+Id Pedido: 9503
+Producto   ---   Precio
+combo corral   ---   22050
+combo corral   ---   22050
+combo corral   ---   22050
+combo corral   ---   22050
+combo corral   ---   22050
+combo corral   ---   22050
+Calorias totales del Pedido: 5076
+Precio neto: 132300
+valor del IVA: 25137
+Valor total pedido: 157437
